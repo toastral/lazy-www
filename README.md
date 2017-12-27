@@ -1,2 +1,4 @@
 # lazy-www
-remote part of lazy engine project
+Remote part of lazy engine project
+
+Движок для выгружаемой части
