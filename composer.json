@@ -1,0 +1,12 @@
+{
+  "name": "toastral/lazy-www",
+  "description": "A part of other project - lazy cms",
+  "require":{
+    "php": ">=7.0.0"
+  },
+  "autoload":{
+    "psr-4":{
+      "Lazy\\": "src/"
+    }
+  }
+}
